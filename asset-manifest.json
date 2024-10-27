@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/spx/static/css/main.e5339f0b.css",
-    "main.js": "/spx/static/js/main.021c514e.js",
-    "static/js/453.f80a1a57.chunk.js": "/spx/static/js/453.f80a1a57.chunk.js",
-    "static/media/background-home-desktop.jpg": "/spx/static/media/background-home-desktop.cdf3864ecbfdf20e8c3b.jpg",
-    "static/media/background-destination-desktop.jpg": "/spx/static/media/background-destination-desktop.468b922c69bf5499b4bc.jpg",
-    "static/media/background-home-tablet.jpg": "/spx/static/media/background-home-tablet.bc9efcc3281fa6801077.jpg",
-    "static/media/background-crew-desktop.jpg": "/spx/static/media/background-crew-desktop.88a3c692fd34eb311e04.jpg",
-    "static/media/background-destination-tablet.jpg": "/spx/static/media/background-destination-tablet.8f55d346d8b6cfd95ab7.jpg",
-    "static/media/background-technology-desktop.jpg": "/spx/static/media/background-technology-desktop.b7b589b3c0c5ef0811d4.jpg",
-    "static/media/background-crew-tablet.jpg": "/spx/static/media/background-crew-tablet.16d51cf61e98ce45eb61.jpg",
-    "static/media/background-home-mobile.jpg": "/spx/static/media/background-home-mobile.13f7adecbcb3c3f170d8.jpg",
-    "static/media/background-technology-tablet.jpg": "/spx/static/media/background-technology-tablet.48c38b028217ee0096c4.jpg",
-    "static/media/background-destination-mobile.jpg": "/spx/static/media/background-destination-mobile.e0131e27e751ead1a922.jpg",
-    "index.html": "/spx/index.html",
-    "static/media/logo.svg": "/spx/static/media/logo.565f7f2c0534403f11b71994f4311210.svg",
-    "static/media/icon-close.svg": "/spx/static/media/icon-close.d47fda63cbd8b3fedbbc1b2a53f64470.svg",
-    "static/media/icon-hamburger.svg": "/spx/static/media/icon-hamburger.5273efa7c50e96ef3e51e7a2b54048ce.svg",
-    "main.e5339f0b.css.map": "/spx/static/css/main.e5339f0b.css.map",
-    "main.021c514e.js.map": "/spx/static/js/main.021c514e.js.map",
-    "453.f80a1a57.chunk.js.map": "/spx/static/js/453.f80a1a57.chunk.js.map"
+    "main.css": "/static/css/main.3009e505.css",
+    "main.js": "/static/js/main.22bda57c.js",
+    "static/js/453.f80a1a57.chunk.js": "/static/js/453.f80a1a57.chunk.js",
+    "static/media/background-home-desktop.jpg": "/static/media/background-home-desktop.cdf3864ecbfdf20e8c3b.jpg",
+    "static/media/background-destination-desktop.jpg": "/static/media/background-destination-desktop.468b922c69bf5499b4bc.jpg",
+    "static/media/background-home-tablet.jpg": "/static/media/background-home-tablet.bc9efcc3281fa6801077.jpg",
+    "static/media/background-crew-desktop.jpg": "/static/media/background-crew-desktop.88a3c692fd34eb311e04.jpg",
+    "static/media/background-destination-tablet.jpg": "/static/media/background-destination-tablet.8f55d346d8b6cfd95ab7.jpg",
+    "static/media/background-technology-desktop.jpg": "/static/media/background-technology-desktop.b7b589b3c0c5ef0811d4.jpg",
+    "static/media/background-crew-tablet.jpg": "/static/media/background-crew-tablet.16d51cf61e98ce45eb61.jpg",
+    "static/media/background-home-mobile.jpg": "/static/media/background-home-mobile.13f7adecbcb3c3f170d8.jpg",
+    "static/media/background-technology-tablet.jpg": "/static/media/background-technology-tablet.48c38b028217ee0096c4.jpg",
+    "static/media/background-destination-mobile.jpg": "/static/media/background-destination-mobile.e0131e27e751ead1a922.jpg",
+    "index.html": "/index.html",
+    "static/media/logo.svg": "/static/media/logo.565f7f2c0534403f11b71994f4311210.svg",
+    "static/media/icon-close.svg": "/static/media/icon-close.d47fda63cbd8b3fedbbc1b2a53f64470.svg",
+    "static/media/icon-hamburger.svg": "/static/media/icon-hamburger.5273efa7c50e96ef3e51e7a2b54048ce.svg",
+    "main.3009e505.css.map": "/static/css/main.3009e505.css.map",
+    "main.22bda57c.js.map": "/static/js/main.22bda57c.js.map",
+    "453.f80a1a57.chunk.js.map": "/static/js/453.f80a1a57.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5339f0b.css",
-    "static/js/main.021c514e.js"
+    "static/css/main.3009e505.css",
+    "static/js/main.22bda57c.js"
   ]
 }
