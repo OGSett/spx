@@ -14,7 +14,7 @@ function App() {
       <Router basename={process.env.NODE_ENV === 'production' ? '/spx' : ''}>
         <Routes>
           <Route path='/' element={<Home setBurgerDiv={setBurgerDiv} burgerDiv={burgerDiv} />} />
-          <Route path='/destination' element={<Destinations setBurgerDiv={setBurgerDiv} burgerDiv={burgerDiv} />} />
+          <Route path='/spx/destination' element={<Destinations setBurgerDiv={setBurgerDiv} burgerDiv={burgerDiv} />} />
           <Route path='/crew' element={<CrewPage setBurgerDiv={setBurgerDiv} burgerDiv={burgerDiv} />} />
           <Route path='/tech' element={<TechPage setBurgerDiv={setBurgerDiv} burgerDiv={burgerDiv} />} />
         </Routes>
